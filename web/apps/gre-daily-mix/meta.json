@@ -1,0 +1,13 @@
+{
+ "name": "gre-daily-mix",
+ "title": "GRE Daily Mix",
+ "exam": "GRE",
+ "area": "GRE Writing and Planning",
+ "desc": "A 20-minute mixed set every day, half verbal and half quant, with a streak to keep you going.",
+ "content": [
+  "tc.json",
+  "se.json",
+  "gre_words.json"
+ ],
+ "n": 48
+}
